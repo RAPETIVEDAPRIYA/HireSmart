@@ -1,5 +1,5 @@
 import streamlit as st
-from agents.mock_interview_agent import MockInterviewAgent
+from Agents.interview_agent import MockInterviewAgent
 
 agent = MockInterviewAgent()
 
