@@ -1,0 +1,6 @@
+streamlit
+openai
+google-adk
+pdfplumber
+google-cloud-datastore
+pydub
