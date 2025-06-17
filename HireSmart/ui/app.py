@@ -1,5 +1,5 @@
 import streamlit as st
-from HireSmart.Agents.interview_agent import MockInterviewAgent
+from Agents.interview_agent import MockInterviewAgent
 
 agent = MockInterviewAgent()
 
